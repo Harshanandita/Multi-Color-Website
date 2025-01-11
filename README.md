@@ -36,16 +36,16 @@ A simple website featuring a **navigation bar** and a **multi-color theme** crea
 
 ## Demo
 
-Preview the website by visiting: [Preview](GitHub Pages Link) 
+Preview the website by visiting: [Preview](https://harshanandita.github.io/Multi-Color-Website/) 
 
 ## Installation
 
-### 1. Clone the repository:
+1. Clone the repository:
 ```bash
 git clone https://github.com/Harshanandita/Multi-Color-Website.git
 ```
 
-### 2. Open the `index.html` file in your browser to view the website.
+2. Open the `index.html` file in your browser to view the website.
 
 ## How to Customize
 
@@ -77,7 +77,7 @@ To add more links to the navigation bar, edit the `<nav>` section in `index.html
 
 ## License
 
-This project is licensed under the [MIT License](abcd).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contributing
 
